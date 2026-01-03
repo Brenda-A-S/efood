@@ -1,0 +1,109 @@
+{
+  "restaurantes": [
+    {
+      "id": "1",
+      "titulo": "La Dolce Vita",
+      "descricao": "Clássicos da culinária italiana feitos com ingredientes frescos.",
+      "tipo": "Italiana",
+      "avaliacao": 4.7,
+      "capa": "https://img.freepik.com/fotos-gratis/exterior-de-bistro-vintage-com-cadeiras-velhas_23-2149366407.jpg",
+      "cardapio": [
+        {
+          "id": 1,
+          "nome": "Pizza Margherita",
+          "descricao": "Molho de tomate, mussarela e manjericão fresco",
+          "preco": 39.9,
+          "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+          "porcao": "Serve 2 pessoas"
+        },
+        {
+          "id": 2,
+          "nome": "Lasanha à Bolonhesa",
+          "descricao": "Camadas de massa, carne e molho artesanal",
+          "preco": 45.5,
+          "foto": "https://static.itdg.com.br/images/640-400/ec2a5e38702c60bf1ace0b5f1c8e9415/shutterstock-739787011.jpg",
+          "porcao": "Serve 1 pessoa"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "titulo": "Burger House",
+      "descricao": "Hambúrgueres artesanais suculentos e cheios de personalidade.",
+      "tipo": "Hamburgueria",
+      "avaliacao": 4.5,
+      "capa": "https://img.freepik.com/fotos-gratis/shopfront-do-restaurante-no-centro_53876-75135.jpg",
+      "cardapio": [
+        {
+          "id": 3,
+          "nome": "Classic Burger",
+          "descricao": "Pão brioche, carne 180g, queijo e molho da casa",
+          "preco": 32.9,
+          "foto": "https://blog-content.omahasteaks.com/wp-content/uploads/2022/06/blogwp_classic-american-burger-scaled-1.jpg",
+          "porcao": "Serve 1 pessoa"
+        },
+        {
+          "id": 4,
+          "nome": "Cheese Bacon",
+          "descricao": "Hambúrguer com bacon crocante e cheddar",
+          "preco": 36.9,
+          "foto": "https://s2.glbimg.com/J37rcGJSqqOBHXy7PtN1JGOCgww=/620x455/e.glbimg.com/og/ed/f/original/2020/09/03/bacon_burger_-_01.jpg",
+          "porcao": "Serve 1 pessoa"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "titulo": "Sushi Zen",
+      "descricao": "Experiência oriental com peixes frescos e cortes precisos.",
+      "tipo": "Japonesa",
+      "avaliacao": 4.8,
+      "capa": "https://img.freepik.com/fotos-gratis/vista-frontal-do-restaurante-de-comida-de-rua-saborosa-japonesa_23-2149410170.jpg",
+      "cardapio": [
+        {
+          "id": 5,
+          "nome": "Combo Sushi 20 peças",
+          "descricao": "Salmão, atum e uramakis variados",
+          "preco": 79.9,
+          "foto": "https://s3-sa-east-1.amazonaws.com/deliveryon-uploads/products/sujirusushi/427_5ebdc97b97c37.jpg",
+          "porcao": "Serve 2 pessoas"
+        },
+        {
+          "id": 6,
+          "nome": "Temaki de Salmão",
+          "descricao": "Salmão fresco, arroz e cream cheese",
+          "preco": 29.9,
+          "foto": "https://static.itdg.com.br/images/1200-675/774375583e3775acf3328a7c7a0a0470/303152-original.jpg",
+          "porcao": "Serve 1 pessoa"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "titulo": "Cantinho Mineiro",
+      "descricao": "Comida caseira com gosto de domingo em família.",
+      "tipo": "Brasileira",
+      "avaliacao": 4.6,
+      "capa": "https://img.freepik.com/fotos-gratis/restaurante-ao-ar-livre-com-cadeiras-e-mesas-de-madeira_181624-57563.jpg",
+      "cardapio": [
+        {
+          "id": 7,
+          "nome": "Feijoada Completa",
+          "descricao": "Feijão preto, carnes nobres, arroz e couve",
+          "preco": 54.9,
+          "foto": "https://acarnequeomundoprefere.com.br/uploads/media/image/frimesa-receitas-eisbein-1.jpg",
+          "porcao": "Serve 2 pessoas"
+        },
+        {
+          "id": 8,
+          "nome": "Frango com Quiabo",
+          "descricao": "Clássico mineiro com angu",
+          "preco": 42,
+          "foto": "https://i.panelinha.com.br/i1/bk-3716-30-panelinha-29-01-20-foto260.webp",
+          "porcao": "Serve 1 pessoa"
+        }
+      ]
+    }
+  ],
+  "checkout": []
+}
